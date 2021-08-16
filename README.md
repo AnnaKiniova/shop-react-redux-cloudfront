@@ -49,3 +49,4 @@ Links.
 1. S3 bucket: http://anna-first-app.s3-website-eu-west-1.amazonaws.com/
 2. CloudFront: https://dvvd6p2hnnt3l.cloudfront.net/
    Changed project Header
+3. Auto created infrastructure: https://dot5xklxy107i.cloudfront.net/
